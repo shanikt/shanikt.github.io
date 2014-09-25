@@ -397,9 +397,23 @@ letter-spacing: 5px;
   text-indent: 100%;
   white-space: nowrap;
 }
+
+.cd-primary-nav .cd-social a {
+  width: 44px;
+  height: 44px;
+  padding: 0;
+  background-image: url("../images/cd-socials.svg");
+  background-repeat: no-repeat;
+  /* image replacement */
+  overflow: hidden;
+  text-indent: 100%;
+  white-space: nowrap;
+}
+
 .cd-primary-nav .cd-facebook a {
   background-position: 0 0;
 }
+
 .cd-primary-nav .cd-instagram a {
   background-position: -44px 0;
 }
