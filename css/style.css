@@ -369,8 +369,8 @@ font-size: 22px;
 letter-spacing: 5px;
 }
 
-.no-touch .cd-primary-nav a:hover {
-  background-color: #e36767;
+.cd-primary-nav a:hover {
+  background-color: #888888;
 }
 
 .cd-primary-nav .cd-label {
