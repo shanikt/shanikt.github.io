@@ -365,7 +365,7 @@ border-radius: 0.25em;
 -webkit-transition: background 0.2s;
 -moz-transition: background 0.2s;
 transition: background 0.2s;
-font-size: 24px;
+font-size: 36px;
 letter-spacing: 5px;
 }
 
@@ -428,7 +428,7 @@ letter-spacing: 5px;
   }
   .cd-primary-nav .cd-label {
     font-size: 16px;
-    font-size: 1.5rem;
+    font-size: 1.0rem;
     letter-spacing: 10px;
   }
 }
